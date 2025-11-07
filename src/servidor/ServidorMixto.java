@@ -5,6 +5,5 @@ public class ServidorMixto {
         System.out.println("✅ Servidor iniciado - Listo para desarrollo");
         System.out.println("👤 Desarrollado por: Ángel");
         System.out.println("🚀 Equipo: Alin, Abril, Mario, Ángel");
-        System.out.println("🚀 Equipo: Alin, Abril, Mario, Ángel");
     }
 }
