@@ -2,6 +2,6 @@ package cliente;
 
 public class GUIcliente {
     public GUIcliente() {
-        System.out.println("✅ GUIcliente - Asignado a: Abril JBFAWIOFA");
+        System.out.println("✅ GUIcliente - Asignado a: Abril JBFAWIOFA AAAAAAAAAAAAAAAAAAAAAA AAAAAA");
     }
 }
